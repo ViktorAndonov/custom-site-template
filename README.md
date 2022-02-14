@@ -1,4 +1,4 @@
-*Only modification is that it puts the site in the wordpress folder, where you can add your own git files.
+*Only modification is that it creates public_html/wordpress folder, the CMS installation is in the wordpress folder and in the public_html/ you can add your own git files.
 
 # VVV Custom Site Provisioner
 
